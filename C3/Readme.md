@@ -7,8 +7,4 @@ Prototipo 1: https://www.figma.com/proto/nWzvup1JdgY25806gjp8xm/Wireframe?node-i
 
 Prototipo 2: https://www.figma.com/design/nWzvup1JdgY25806gjp8xm/Wireframe?node-id=1-2&t=oRnEsjzycdw8vi9b-1
 
-Struttura prototipo 1: https://www.figma.com/design/nWzvup1JdgY25806gjp8xm/Wireframe?node-id=0-1&p=f
-
-
-
 
